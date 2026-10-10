@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @dreampl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-dreampl/dreampl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a multidisciplinary developer and UI/UX designer with a deep curiosity for how things work under the hood. I specialize in bridging the gap between elegant, minimalist interfaces and robust backend architectures. 
+
+My work spans across building secure cross-platform desktop applications, architecting network tools and proxy clients, developing custom web solutions, and exploring interactive game mechanics. I believe in writing clean, maintainable code wrapped in beautifully modern designs.
+
+**Focus Areas:**
+- 🖥️ **Software Engineering:** Cross-platform desktop apps & network managers.
+- 🎨 **UI/UX Design:** Modern, minimalist, and user-centric interfaces.
+- 🌐 **DevOps & Networking:** Linux server administration, secure routing, and containerization.
+- 🎮 **Game Development:** Blueprint logic, rendering optimization, and interactive mechanics.

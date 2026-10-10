@@ -9,3 +9,6 @@ My work spans across building secure cross-platform desktop applications, archit
 - 🎨 **UI/UX Design:** Modern, minimalist, and user-centric interfaces.
 - 🌐 **DevOps & Networking:** Linux server administration, secure routing, and containerization.
 - 🎮 **Game Development:** Blueprint logic, rendering optimization, and interactive mechanics.
+
+if you enjoy my application please help me improve and continue the projects by supporting me
+my wallet address BNB: 0x75cE444a0e5f2a366257E1B53b7BCCfE682fc89C
